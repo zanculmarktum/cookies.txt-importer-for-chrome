@@ -1,3 +1,6 @@
+html {
+    width: 400px;
+}
 html, body {
     padding: 10px;
 }
